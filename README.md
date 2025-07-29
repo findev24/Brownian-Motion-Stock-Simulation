@@ -5,20 +5,20 @@ This repository contains a Python-based implementation of a Monte Carlo simulati
 Models stock price dynamics using the GBM model
 
 Customizable inputs:
-Mean daily return
-Volatility
-Initial price
-Number of simulations
-Time horizon (in trading days)
-Visualizes all simulated paths for comparison and analysis
+Mean daily return, 
+Volatility, 
+Initial price, 
+Number of simulations, 
+Time horizon (in trading days), 
+Visualizes all simulated paths for comparison and analysis 
 
 📊 Default Simulation Parameters
-Parameter	Value
-Initial Stock Price	$10
-Mean Daily Return (μ)	0.05% (0.0005)
-Daily Volatility (σ)	1% (0.01)
-Number of Paths	100
-Trading Days	2,500
+Parameter	Value 
+Initial Stock Price	$10 
+Mean Daily Return (μ)	0.05% (0.0005) 
+Daily Volatility (σ)	1% (0.01) 
+Number of Paths	100 
+Trading Days	2,500 
 
 🧱 Requirements
 Python 3.x
